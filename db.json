@@ -1,7 +1,12 @@
 {
     "users": [
         {"id": 1,"nickname": "user","password": "user", "name": "Użytkownik"},
-        {"id": 2,"nickname": "user2","password": "user2", "name": "Użytkownik 2"}
+        {"id": 3,"nickname": "Marcin","password": "Marcin", "name": "Marcin 2"},
+        {"id": 4,"nickname": "Bartosz","password": "Bartosz", "name": "Bartosz"},
+        {"id": 5,"nickname": "Krystyna","password": "Krystyna", "name": "Krystyna"},
+        {"id": 6,"nickname": "Anna","password": "Anna", "name": "Anna"}, 
+        {"id": 7,"nickname": "Sylwester","password": "Sylwester", "name": "Sylwester"}, 
+        {"id": 8,"nickname": "Michał","password": "Michał", "name": "Michał"}
     ]
    
 }
