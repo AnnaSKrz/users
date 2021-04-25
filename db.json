@@ -1,7 +1,7 @@
 {
     "users": [
         {"id": 1,"nickname": "user","password": "user", "name": "Użytkownik"},
-        {"id": 3,"nickname": "Marcin","password": "Marcin", "name": "Marcin 2"},
+        {"id": 3,"nickname": "Marcin","password": "Marcin", "name": "Marcin"},
         {"id": 4,"nickname": "Bartosz","password": "Bartosz", "name": "Bartosz"},
         {"id": 5,"nickname": "Krystyna","password": "Krystyna", "name": "Krystyna"},
         {"id": 6,"nickname": "Anna","password": "Anna", "name": "Anna"}, 
